@@ -262,12 +262,4 @@ This project demonstrates that secure and reliable Vehicle-to-Vehicle communicat
 
 ---
 
-## Authors
 
-Vehicle-to-Vehicle Communication with Rule-Based Intrusion Detection System
-
----
-
-## License
-
-This project is developed for educational and research purposes. You are free to use, modify, and extend the project with proper attribution.
